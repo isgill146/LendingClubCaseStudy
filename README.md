@@ -17,11 +17,11 @@ The aim is to identify patterns which indicate if a person is likely to be defau
 
 ## Conclusions
 #### Below are the driving factors to identify a defaulter
-- Grade
 - Interest Rate
 - Loan Term
 - Home Ownership
 - Purpose of Loan
+- Grade
 
 ## Libraries Used
 - pandas
